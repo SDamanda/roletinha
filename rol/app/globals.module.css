@@ -21,7 +21,7 @@
 .girar {
     padding: 0.7rem 1.5rem;
     margin: 1rem 0;
-    background: #6200ea;
+    background: #420101;
     color: white;
     border: none;
     border-radius: 6px;
@@ -30,7 +30,7 @@
 }
 
 .girar:hover {
-    background: #3700b3;
+    background: #972929;
 }
 
 .canvas {
