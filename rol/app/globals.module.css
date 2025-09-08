@@ -1,0 +1,46 @@
+.container {
+    text-align: center;
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+}
+
+.inputGroup {
+    margin: 1rem 0;
+}
+
+.inputGroup input {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.inputGroup button {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.girar {
+    padding: 0.7rem 1.5rem;
+    margin: 1rem 0;
+    background: #6200ea;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.girar:hover {
+    background: #3700b3;
+}
+
+.canvas {
+    margin-top: 2rem;
+    border: 3px solid #333;
+    border-radius: 50%;
+}
+
+.resultado {
+    margin-top: 1rem;
+    color: #2e7d32;
+    font-size: 1.5rem;
+}
