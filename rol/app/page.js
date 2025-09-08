@@ -106,7 +106,7 @@ export default function Home() {
           onChange={(e) => setOpcao(e.target.value)}
           placeholder="Digite uma opção"
         />
-        <button onClick={adicionarOpcao}>Adicionar</button>
+        <button onClick={adicionarOpcao} className={styles.add}>Adicionar</button>
       </div>
 
       <button className={styles.girar} onClick={girarRoleta}>

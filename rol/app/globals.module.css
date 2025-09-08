@@ -7,6 +7,9 @@
 .inputGroup {
     margin: 1rem 0;
 }
+.add{
+    background-color:#420101;
+}.add:hover{background-color: #860404;}
 
 .inputGroup input {
     padding: 0.5rem;
