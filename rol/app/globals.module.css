@@ -8,6 +8,7 @@
     margin: 1rem 0;
 }
 .add{
+    color: white;
     background-color:#420101;
 }.add:hover{background-color: #860404;}
 
