@@ -31,7 +31,6 @@ export default function Home() {
       ctx.arc(150, 150, 150, i * anguloPorOpcao, (i + 1) * anguloPorOpcao);
       ctx.fill();
 
-      // Texto
       ctx.save();
       ctx.translate(150, 150);
       ctx.rotate(i * anguloPorOpcao + anguloPorOpcao / 2);
